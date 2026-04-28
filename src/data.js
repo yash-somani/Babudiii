@@ -89,7 +89,7 @@ export const letters = {
   beforeExam: {
     tab: 'Before an exam',
     paragraphs: [
-      'Hey [Her Name],',
+      'Babudiii,',
       'If you\u2019re reading this, you probably have an exam soon and your brain is doing that thing where it overthinks everything at once. I wish I could sit next to you, hold your hand, and tell you this in person, but for now, these words are my way of being there.',
       'You\u2019ve studied through confusion, exhaustion, and days where it felt like nothing was going in. You kept going even when you felt blank. That effort already matters, whether this paper turns out perfect or not.',
       'Take a breath. Your job in this exam is not to prove your worth; it\u2019s just to give the best answers you can with the energy and clarity you have today. Nothing more, nothing less. You are not a machine. You are a human I love very much, and I\u2019m already proud of you for reaching this point.',
