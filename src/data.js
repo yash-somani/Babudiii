@@ -5,7 +5,7 @@
 
 // ── Hero ────────────────────────────────────────
 export const heroContent = {
-  heading: 'I love youu Babudii , this space is just for you.',
+  heading: 'I love youu Babudii , this space is just for you.💖',
   subheading:
     'When exams feel heavy and confusing, this is your quiet corner to breathe, remember who you are, and feel how much you\u2019re loved.',
   body: 'I know these days have been overwhelming and you\u2019ve been feeling blank, confused, and tired in a way that\u2019s hard to explain. Even from far away, I want you to have a place that reminds you: you are not alone, you are not your marks, and you are doing so much better than you think.',
